@@ -1,1 +1,1 @@
-https://twist-retention-dana-communications.trycloudflare.com
+https://api.trycloudflare.com
